@@ -1,1 +1,2 @@
-# Retail_Market_Intelligence_Analysis
+# Retail Market Intelligence Analysis
+## Inspired by Circana(UK) Ltd
