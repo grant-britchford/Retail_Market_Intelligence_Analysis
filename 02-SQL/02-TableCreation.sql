@@ -1,3 +1,4 @@
+
 /* Products */
 CREATE TABLE DimProduct(
 ProductID INT IDENTITY(1,1) PRIMARY KEY,
@@ -26,13 +27,15 @@ LoyaltySegment VARCHAR(50));
 
 /* Dates */
 CREATE TABLE DimDate(
-DATEKEY INT PRIMARY KEY,
+DateKey INT PRIMARY KEY,
 FullDate DATE,
 CalendarYear INT,
+CalendarQuarter INT,
 MonthNumber INT,
 MonthName VARCHAR(10),
 WeekNumber INT,
 DayName VARCHAR(10));
+GO
 
 /* Sales */
 CREATE TABLE FactSales(
