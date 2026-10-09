@@ -32,6 +32,13 @@ improve category performance.
 7. Which products drive category growth?
 8. Which products underperform?
 
+### Target Data Size
+- Products = 2,000
+- Retailers = 100
+- Customers = 50,000
+- Sales records = 25,000
+- Market share records = 50,000
+
 ### Project Architecture:
 
 ```text
