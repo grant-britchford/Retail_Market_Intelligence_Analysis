@@ -47,7 +47,7 @@ Retail_Market_Intelligence_Analysis/
 │   └── Executive_Summary.md
 │
 ├── SQL/
-│   ├──
+│   ├── 01-DatabaseCreation.sql
 │   ├──
 │   ├──
 │   ├──
