@@ -57,7 +57,7 @@ Retail_Market_Intelligence_Analysis/
 │   ├── 01-DatabaseCreation.sql
 │   ├── 02-TableCreation.sql
 │   ├── 03-ForeignKeyCreation.sql
-│   ├──
+│   ├── 04-DataGeneration.sql
 │   ├──
 │   ├──
 │   └── 
