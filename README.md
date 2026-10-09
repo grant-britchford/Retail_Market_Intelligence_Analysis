@@ -43,7 +43,7 @@ Retail_Market_Intelligence_Analysis/
 │   ├── Business_Requirements.md
 │   ├── KPI_Definitions.md
 │   ├── Data_Dictionary.md
-│   ├──
+│   ├── Data_Quality_Report.md
 │   └──
 │
 ├── SQL/
