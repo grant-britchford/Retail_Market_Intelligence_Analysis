@@ -22,6 +22,16 @@ improve category performance.
 - Identify category growth opportunities
 - Develop executive dashboards
 
+### Business Questions:
+1. Who has the largest market share?
+2. Which segments are most profitable?
+3. What demographics generate the most revenue?
+4. Which segments are most profitable?
+5. Which promotions generate positive Return On Investment (ROI)?
+6. Which discounts drive volume growth?
+7. Which products drive category growth?
+8. Which products underperform?
+
 ### Project Architecture:
 
 ```text
@@ -56,3 +66,12 @@ Retail_Market_Intelligence_Analysis/
 └── Images/
 │
 └── Licence
+
+```
+
+### Tech Used
+- SQL Server
+- Python
+- Pandas
+- Numpy
+- Tableau
