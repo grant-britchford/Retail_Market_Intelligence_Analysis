@@ -71,10 +71,9 @@ Retail_Market_Intelligence_Analysis/
 ├── Presentation/
 │
 └── Images/
-│   └── SSMSRelationshipModels/
-│   │   ├── FactMarketShareRelationships.png
-│   │    ├── FactPromotionsRelationships.png
-│   │    └── FactSlesRelationships.png
+│   ├── ERD_Model.png
+│   ├── 
+│   └── 
 │
 └── Licence
 
